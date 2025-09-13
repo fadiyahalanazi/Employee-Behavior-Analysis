@@ -90,7 +90,8 @@ Employee-Behavior-Analysis
 
 The following dashboard provides an overview of the analysis conducted on employee behavior:
 
-![Dashboard Results](images/dashboard_results.png)
+![Dashboard Results](dashboard_results.png)
+
 
 ## Author
 Fadiah Suleiman Alanzi  
