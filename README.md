@@ -86,6 +86,11 @@ Employee-Behavior-Analysis
    ```bash
    jupyter notebook notebooks/Wegdan_Final_Project.ipynb
    ```
+## Dashboard Results
+
+The following dashboard provides an overview of the analysis conducted on employee behavior:
+
+![Dashboard Results](images/dashboard_results.png)
 
 ## Author
 Fadiah Suleiman Alanzi  
